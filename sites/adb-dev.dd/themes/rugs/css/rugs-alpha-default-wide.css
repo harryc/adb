@@ -1,0 +1,7 @@
+/* This file will hold styles that are loaded using the same media query as the wide grid. */
+
+#page {
+-moz-box-shadow: 3px 3px 3px 3pxpx #ccc;
+-webkit-box-shadow: 3px 3px 3px 3pxpx #ccc;
+box-shadow: 3px 3px 3px 3pxpx #ccc;
+}
